@@ -1,2 +1,2 @@
-# ResNeXt50-SVM-ABC
-Using CNN (ResNeXt-50) as a feature extractor and SVM as a classifier optimized with Artificial Bee Colony metaheuristic optimizer
+# ResNeXt-50+SVM optimized with Artificial Bee Colony Metaheuristic Optimizer
+In this code i use Convolutional Neural Network (CNN) architecture as a feature extractor and Support Vector Machine (SVM) as a classifier while the SVM optimized with Artificial Bee Colony which is one of the metaheuristic optimizer. This code, developed using Pytorch, sklearn, and MealPy which is a library for the metaheuristic optimizer
